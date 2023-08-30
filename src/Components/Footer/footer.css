@@ -1,0 +1,39 @@
+.footer-title h3{
+font-size: 32px;
+color:blueviolet;
+padding-left: 70px;
+}
+.location,
+ .email,
+ .phone,
+ .liveChat{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    background-color:white;
+    width: 300px;
+    height:80px;
+    padding-top: 10px;
+    border-radius: 10px;
+    padding-right: 10px;
+}
+.email, 
+
+.liveChat{
+    margin-top: 20px;
+}
+.location p{
+    text-align: center;
+    font-size:14px;
+    margin-top:2px;
+    padding-left: 14px;
+}
+.email p,
+.phone p,
+.liveChat p{
+    
+   padding-right: 10px;
+    font-size:14px;
+    margin-top:2px;
+    padding-left: 10px;
+}
