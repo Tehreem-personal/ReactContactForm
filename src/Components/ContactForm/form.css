@@ -22,7 +22,7 @@ body{
     position:absolute;
  
     top:100px;
-    left: 728px;
+    left: 688px;
     z-index: 80;
     margin-top: 20px;
     width:28%;
@@ -78,6 +78,6 @@ box-shadow: 2px grey;
     color:white;
     background-color:blueviolet ;
     border:none;
-   
+   padding-top: 4px;
     margin-top: 30px;
 }
